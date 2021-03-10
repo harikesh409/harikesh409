@@ -57,3 +57,15 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikesh409&show_icons=true&theme=radical&locale=en&layout=compact" alt="harikesh409" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikesh409&show_icons=true&theme=radical&locale=en" alt="harikesh409" /></p>
+
+<details>
+	<summary>GitHub Activity Graph</summary>
+	
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harikesh409)
+</details>
+
+<details>
+	<summary> GitHub Metrics </summary>
+	
+![GitHub metrics](https://metrics.lecoq.io/harikesh409)  
+</details>
