@@ -61,7 +61,7 @@
 <details>
 	<summary>GitHub Activity Graph</summary>
 	
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harikesh409)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harikesh409&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)]
 </details>
 
 <details>
