@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **p.harikesh409@gmail.com**
 
-- 📄 Know about my experiences [https://harikesh409.github.io/Harikesh_Pallantla.pdf](Resume)
+- 📄 Know about my experiences [Resume](https://harikesh409.github.io/Harikesh_Pallantla.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
